@@ -1,0 +1,1 @@
+# Stores common functions used across the project so you don’t repeat code.
