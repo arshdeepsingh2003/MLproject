@@ -1,20 +1,16 @@
-# Virtual Environment
+# Python packaging artifacts
+*.egg-info/
+*.dist-info/
+build/
+dist/
+
+# Virtual environments
 venv/
+env/
 
 # Python cache
 __pycache__/
 *.pyc
 
-# Jupyter
-.ipynb_checkpoints/
-
 # Environment variables
 .env
-
-# Data & models
-data/
-models/
-
-# OS files
-.DS_Store
-Thumbs.db
