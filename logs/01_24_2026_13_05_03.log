@@ -1,0 +1,5 @@
+[ 2026-01-24 13:05:06,376 ] INFO - Entered the data ingestion component
+[ 2026-01-24 13:05:06,422 ] INFO - Dataset read into pandas DataFrame
+[ 2026-01-24 13:05:06,430 ] INFO - Raw data saved
+[ 2026-01-24 13:05:06,430 ] INFO - Train-test split started
+[ 2026-01-24 13:05:06,442 ] INFO - Data ingestion completed successfully
