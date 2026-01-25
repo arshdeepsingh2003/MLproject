@@ -16,5 +16,5 @@ __pycache__/
 .env
 
 artifact/
-
+catboost_info/
 logs/
